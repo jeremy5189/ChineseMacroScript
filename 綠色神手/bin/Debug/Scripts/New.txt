@@ -1,0 +1,7 @@
+[Header]
+AppVersion=Beta
+Title=test
+Author=Jeremy
+Discription=
+[Script]
+d

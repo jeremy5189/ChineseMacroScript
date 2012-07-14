@@ -1,0 +1,12 @@
+[Header]
+AppVersion=Beta 2
+Title=pause
+Author=Jeremy
+Discription=pause
+[Script]
+单(1000)
+单(1000)
+单(1000)
+单(1000)
+单(1000)
+单(1000)

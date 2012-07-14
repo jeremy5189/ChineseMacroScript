@@ -1,0 +1,8 @@
+[Header]
+AppVersion=Beta 2
+Title=0
+Author=Jeremy
+Discription=
+[Script]
+²¾¨ì(526,146)²¾¨ì(599,136)
+

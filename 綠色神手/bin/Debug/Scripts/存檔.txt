@@ -1,0 +1,7 @@
+[Header]
+AppVersion=Beta
+Title=測試存檔
+Author=Jeremy
+Discription=測試存檔TEst
+[Script]
+神棍()

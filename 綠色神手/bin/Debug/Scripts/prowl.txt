@@ -1,0 +1,8 @@
+[Header]
+AppVersion=Beta 2
+Title=prowl
+Author=Jeremy
+Discription=
+[Script]
+設定金鑰("43c326d3454256ac885aaed426b8244e2c11a331")
+推送訊息("Hello","World")

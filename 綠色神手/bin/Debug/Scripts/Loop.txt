@@ -1,0 +1,18 @@
+[Header]
+AppVersion=Beta 2
+Title=a
+Author=Jeremy
+Discription=
+[Script]
+呼叫程式("notepad")
+重複執行區段(3)
+傳送字串("1")
+按一下("Enter")
+傳送字串("2")
+按一下("Enter")
+傳送字串("3")
+按一下("Enter")
+等待(1000)
+結束區段
+
+
